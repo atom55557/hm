@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
                     txtresult.setText(Double.toString(result));
                 }
                 else{
-                    Toast toast= Toast.makeText(MainActivity.this,"Enter The Required Numbers",Toast.LENGTH_LONG);
+                    Toast toast= Toast.makeText(MainActivity.this,"lutfen sayilari giriniz",Toast.LENGTH_LONG);
                     toast.show();
                 }
             }
@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
                     txtresult.setText(Double.toString(result));
                 }
                 else{
-                    Toast toast= Toast.makeText(MainActivity.this,"Enter The Required Numbers",Toast.LENGTH_LONG);
+                    Toast toast= Toast.makeText(MainActivity.this,"lutfen sayilari giriniz",Toast.LENGTH_LONG);
                     toast.show();
                 }
 
@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
                     txtresult.setText(Double.toString(result));
                 }
                 else{
-                    Toast toast= Toast.makeText(MainActivity.this,"Enter The Required Numbers",Toast.LENGTH_LONG);
+                    Toast toast= Toast.makeText(MainActivity.this,"lutfen sayilari giriniz",Toast.LENGTH_LONG);
                     toast.show();
                 }
             }
@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
                     txtresult.setText(Double.toString(result));
                 }
                 else{
-                    Toast toast= Toast.makeText(MainActivity.this,"Enter The Required Numbers",Toast.LENGTH_LONG);
+                    Toast toast= Toast.makeText(MainActivity.this,"lutfen sayilari giriniz",Toast.LENGTH_LONG);
                     toast.show();
                 }
             }
